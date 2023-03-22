@@ -1,0 +1,1 @@
+rootProject.name = "ru.fgw.ktor-server-fgw"
