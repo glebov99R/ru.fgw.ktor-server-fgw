@@ -6,3 +6,8 @@ import kotlinx.serialization.Serializable
 data class Test(
     val text: String
 )
+
+@Serializable
+data class TestD(
+    val textD: MutableList<String>
+)
